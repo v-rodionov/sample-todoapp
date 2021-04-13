@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#8ab4f8</color>
+
+    <color name="statusBar">@color/dark</color>
+    <color name="navBar">@color/dark</color>
+    <color name="windowBackground">@color/black</color>
+
+    <color name="bottomSheetBackground">@color/dark</color>
+    <color name="tabBackgroundColor">@color/dark</color>
+    <color name="appBarBackgroundColor">@color/dark</color>
+    <color name="bottomActionBarTint">@color/dark</color>
+    <color name="floatingActionButtonTint">@color/black</color>
+    <color name="dividerColor">@color/gray</color>
+
+    <color name="colorControlLight">#2EFFFFFF</color> <!-- 18% white -->
+
+    <color name="selection">#9E9E9E</color>
+
+    <color name="iconColor">@color/gray400</color>
+    <color name="textColor">#D9FFFFFF</color>
+    <color name="textColorSecondary">@color/gray400</color>
+
+    <color name="past_task">#ef9a9a</color>
+
+</resources>

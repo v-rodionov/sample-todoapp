@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#4768fd</color>
+
+    <color name="statusBar">@color/black</color>
+    <color name="navBar">@color/black</color>
+    <color name="windowBackground">@color/white</color>
+
+    <color name="bottomSheetBackground">@color/white</color>
+    <color name="tabBackgroundColor">@color/white</color>
+    <color name="appBarBackgroundColor">@color/white</color>
+    <color name="bottomActionBarTint">@color/white</color>
+    <color name="floatingActionButtonTint">@color/white</color>
+    <color name="dividerColor">@color/gray</color>
+
+    <color name="colorControlLight">#39000000</color>
+
+    <color name="colorShortcutBackground">#F5F5F5</color>
+
+    <color name="selection">#FFDDDDDD</color>
+
+    <color name="iconColor">@color/gray600</color>
+    <color name="textColor">@color/black</color>
+    <color name="textColorSecondary">@color/gray600</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="gray">#808080</color>
+    <color name="gray600">#757575</color>
+    <color name="gray500">#9e9e9e</color>
+    <color name="gray400">#bdbdbd</color>
+    <color name="dark">#1F1F1F</color>
+    <color name="black">#000000</color>
+
+    <color name="priority_fire">#66F6402C</color>
+    <color name="priority_high">#66FF9800</color>
+    <color name="priority_middle">#66FFC100</color>
+    <color name="priority_low">#6600BBD5</color>
+
+    <color name="past_task">#D32F2F</color>
+
+</resources>

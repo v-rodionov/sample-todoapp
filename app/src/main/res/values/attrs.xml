@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Theme">
+        <attr name="eventFilterViewStyle" format="reference" />
+        <attr name="colorControlLight" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="CategoryView">
+        <attr name="tagCompoundDrawablePadding" format="dimension" />
+        <attr name="tagTextSize" format="dimension" />
+        <attr name="tagPadding" format="dimension" />
+        <attr name="tagTextColor" format="color|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="DeleteListOptionView">
+        <attr name="icon" format="reference" />
+        <attr name="text" format="string|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="EventFilterView">
+        <attr name="android:checked" />
+        <attr name="android:text" />
+        <attr name="android:textColor" />
+        <attr name="android:textSize" />
+        <attr name="android:color" />
+        <attr name="android:padding" />
+        <attr name="android:strokeColor" />
+        <attr name="android:letterSpacing" />
+        <attr name="outlineWidth" format="dimension" />
+        <attr name="clearIcon" format="reference" />
+        <attr name="foreground" format="reference" />
+        <attr name="showIcons" format="boolean" />
+        <attr name="cornerRadius" format="dimension" />
+    </declare-styleable>
+
+</resources>

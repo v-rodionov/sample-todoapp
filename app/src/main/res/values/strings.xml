@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">Todoapp</string>
+
+    <string name="navigation_premium">Activate Premium</string>
+
+    <string name="login_eula_hint_privacy_policy_clickable">Privacy Policy</string>
+    <string name="login_eula_hint_terms_and_conditions_clickable">Terms and Conditions</string>
+
+    <!-- Purchase -->
+    <string name="purchase_title">Premium</string>
+    <string name="purchase_feature_repeated_task">Recurring Tasks</string>
+    <string name="purchase_feature_tags">Colorful Tags</string>
+    <string name="purchase_feature_priority">Task Priority</string>
+    <string name="purchase_feature_dates_in_list">Dates in completed list</string>
+    <string name="purchase_feature_my_day">Today tasks list</string>
+    <string name="purchase_feature_list_progress_in_title">Additional info in list title</string>
+    <string name="purchase_plan_hint">Choose your plan</string>
+
+    <string name="purchase_per_month">Per month</string>
+    <string name="purchase_per_year">* %s per year</string>
+
+    <string name="purchase_plan_pay_period_month">Pay monthly</string>
+    <string name="purchase_plan_pay_period_year">Pay yearly</string>
+
+    <plurals name="purchase_discount_month_period">
+        <item quantity="other">Next %1$d months</item>
+    </plurals>
+
+    <string name="purchase_plan_name_month">Most flexible</string>
+    <string name="purchase_plan_name_year">Best</string>
+
+    <string name="purchase_buy_forever">Buy forever</string>
+
+    <string name="purchase_activate" translatable="false">@string/navigation_premium</string>
+    <string name="purchase_try_trial">Try free trial period</string>
+
+    <string name="purchase_common_error_hint">Could not get information\nCheck your internet connection</string>
+    <string name="purchase_error_btn_text">Retry</string>
+
+    <string name="purchase_hint_eula">@string/login_eula_hint_terms_and_conditions_clickable</string>
+    <string name="purchase_hint_privacy_policy">@string/login_eula_hint_privacy_policy_clickable</string>
+
+    <string name="purchase_hint">The subscription renews automatically. You can manage your subscription on Google Play.\n\nBy completing your purchase, you expressly agree with the following terms:\n\nThe indicated price will be charged to your Google account when the purchase is confirmed.\n\nThe subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period and determination of the cost of the renewal.\n\nYou can manage subscriptions and turn off auto-renewal in your Account Settings after your purchase. Any unused portion of a free trial, if offered, will be forfeited when you purchase a subscription, where applicable.\n\nAdditional online offers and discounts that apply to new purchases or customers who manually renew their licenses or subscriptions may not apply to automatic renewal.\n\nThe app\'s Terms of Use are described in the %1$s.\nRules governing the app\'s collection and processing of data are described in the %2$s.</string>
+
+</resources>
